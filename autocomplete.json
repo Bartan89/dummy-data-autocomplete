@@ -1,14 +1,26 @@
 [
   {
-    "term":"Foo",
+    "term":"anderhalvemetersamenleving",
     "description":"Doo"
   },
   {
-    "term":"Lorum",
+    "term":"boomer",
     "description":"Ipsum"
   },
-  {
-    "term":"Faa",
+    {
+    "term":"dagobertducktaks",
+    "description":"Daa"
+  },
+    {
+    "term":"tuigdorp",
+    "description":"Daa"
+  },
+    {
+    "term":"blokkeerfries",
+    "description":"Daa"
+  },
+    {
+    "term":"bokitoproof",
     "description":"Daa"
   }
 ]
